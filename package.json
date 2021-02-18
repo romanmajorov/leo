@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://romanmajorov.github.io/leo/",
+  "homepage": "https://github.com/romanmajorov/leo.git",
   "scripts": {
     "start": "cross-env HTTPS=true PORT=10888 react-scripts start",
     "build": "react-scripts build",
